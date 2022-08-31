@@ -7,6 +7,9 @@ h3{font-weight: bold;font-size: 20px;}
 p{color: #828282;font-size: 14px;}
 form{margin-bottom: 230px;}
 input{width: 420px;height: 36px;border-radius: 8px; margin: 24px 0;font-size: 16px;background: none; border: 1px solid #F2F2F2; color: #F2F2F2;padding: 14px;}
-button{width: 448px;height: 64px; border-radius: 8px; font-size: 16px;font-weight: bold;background-color: #F2F2F2;border: 1px solid #F2F2F2;}
+.optionalParent input{width: 448px;height: 64px; border-radius: 8px; font-size: 16px;font-weight: bold;background-color: #F2F2F2;border: 1px solid #F2F2F2;color: #231F17;margin: 0;}
 a{color: #F2F2F2;text-decoration: none;padding: 16px;}
 a:hover{color: #fff;}
+.response {margin-bottom: 16px;color: #188038;}
+#mc_embed_signup div.mce_inline_error{background-color: #231F17!important;color: #eb1700!important;font-size: 14px;font-weight: 400;}
+#mc_embed_signup input.mce_inline_error{border-color: #eb1700;}
